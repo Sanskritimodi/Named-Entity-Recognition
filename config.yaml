@@ -8,6 +8,6 @@ train:
         output: stdout
 eval:
         cmd: python3 evaluate_model.py
-        type: service
-        input: "tcp::5566"
+        type: cmd
+        input: data/gu_eval.iob
         output: "tcp::5566"
