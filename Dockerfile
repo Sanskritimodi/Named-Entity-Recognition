@@ -15,3 +15,4 @@ RUN mkdir -p data/
 RUN mkdir -p models/
 
 CMD ["python3", "train.py"]
+CMD ["python3", "evaluate.py"]
