@@ -21,7 +21,7 @@ AlgoDetails:
   Branch: master
   Auth: None #(http/ssh/None)
   DockerfilePath: Dockerfile
-  ConfigPath: config.cfg
+  ConfigPath: config.yaml
   AlgoOutput:
     - /root/models
   RestoreOutput: True
