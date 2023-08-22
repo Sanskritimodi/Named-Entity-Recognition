@@ -8,8 +8,8 @@ Details:
   Port: 7707/tcp # 22/TCP 
   HostIP: 0.0.0.0
   Debug: True
-  DockerHost: localhost
-  DockerHostPort: 2375
+  #DockerHost: localhost
+  #DockerHostPort: 2375
   #Runtime: nvidia
   Env: 
     - lang=gu 
