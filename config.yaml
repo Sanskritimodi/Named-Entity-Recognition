@@ -9,5 +9,5 @@ train:
 eval:
         cmd: python3 evaluate_model.py
         type: service
-        input: data/gu_eval.iob
+        input: "tcp::5566"
         output: "tcp::5566"
