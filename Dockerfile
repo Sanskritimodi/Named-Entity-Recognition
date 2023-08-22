@@ -11,6 +11,8 @@ WORKDIR /root
 COPY config.cfg .
 COPY base_config.cfg .
 COPY train.py .
+COPY evaluate.py .
+
 RUN mkdir -p data/
 RUN mkdir -p models/
 
