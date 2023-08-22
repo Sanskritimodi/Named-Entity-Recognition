@@ -10,6 +10,8 @@ RUN pip3 install -r /requirements.txt
 WORKDIR /root
 COPY config.cfg .
 COPY base_config.cfg .
-COPY evaluate_model.py .
+COPY train.py .
 RUN mkdir -p data/
 RUN mkdir -p models/
+
+CMD ["python3", "train.py"]
