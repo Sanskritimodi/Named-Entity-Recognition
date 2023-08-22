@@ -1,7 +1,7 @@
-Name: Spacy NER Gu
+Name: Gujarati NER with Spacy
 Version: 1.0
 Owner: Sanskriti Modi
-DataFormat: CoNLL2003
+DataFormat: IOB
 RunOn: Docker
 Details:
   Image: False
@@ -10,7 +10,7 @@ Details:
   Debug: True
   DockerHost: localhost
   DockerHostPort: 2375
-  Runtime: nvidia
+  #Runtime: nvidia
   Env: 
     - lang=gu 
     - gpu_id=0 # The gpu-id, remove this line if training on CPU
