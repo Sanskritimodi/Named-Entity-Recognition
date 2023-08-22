@@ -10,6 +10,7 @@ RUN pip3 install -r /requirements.txt
 WORKDIR /root
 COPY config.cfg .
 COPY base_config.cfg .
+COPY config.yaml .
 COPY train.py .
 COPY evaluate.py .
 
