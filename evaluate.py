@@ -16,8 +16,8 @@ for doc in eval_docs:
         if tok.ent_iob_ != "0":
             ent = tok.ent_type_
             label = tok.ent_iob_ + '-' + ent
-            output.append("\t".join([str(tok), label]))
+        output.append("\t".join([str(tok), label]))
 
-print("\n".join(output).encode("utf-8"))
+print("\n".join(output))
 
 
