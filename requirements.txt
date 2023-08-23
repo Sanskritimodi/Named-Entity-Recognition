@@ -1,4 +1,4 @@
-#cupy-cuda114
-#spacy[cuda114,transformers,lookups]
+cupy-cuda114
+spacy[transformers,lookups]
 sentencepiece
 protobuf==3.20.0
