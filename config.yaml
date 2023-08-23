@@ -7,7 +7,7 @@ train:
         input: data/gu_train.iob
         output: stdout
 eval:
-        cmd: python3 evaluate_model.py
+        cmd: python3 evaluate.py
         type: cmd
         input: data/gu_eval.iob
-        output: "tcp::5566"
+        output: stdout
