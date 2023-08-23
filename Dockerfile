@@ -11,11 +11,11 @@ WORKDIR /root
 COPY config.cfg .
 COPY base_config.cfg .
 COPY config.yaml .
-COPY train.py .
+COPY train.sh .
 COPY evaluate.py .
 
 RUN mkdir -p data/
 RUN mkdir -p models/
 
-CMD ["python3", "train.py"]
+RUN chmod +x train.sh
 CMD ["python3", "evaluate.py"]
