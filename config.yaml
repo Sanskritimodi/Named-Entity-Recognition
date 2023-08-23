@@ -2,7 +2,7 @@ title: Spacy Algo config for Acharya
 owner: Sanskriti Modi
 author: SM
 train:
-        cmd: usr/bin/sh train.sh
+        cmd: /usr/bin/sh train.sh
         type: cmd
         input: data/gu_train.iob
         output: stdout
