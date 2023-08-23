@@ -18,4 +18,3 @@ RUN mkdir -p data/
 RUN mkdir -p models/
 
 RUN chmod +x train.sh
-CMD ["python3", "evaluate.py"]
