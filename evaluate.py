@@ -14,7 +14,7 @@ output = []
 for doc in eval_docs:
     for tok in doc:
         label=tok.ent_iob_
-        if label != "0":
+        if label != "O":
             ent = tok.ent_type_
             label = label + '-' + ent
         output.append("\t".join([str(tok), label]))
