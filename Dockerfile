@@ -11,6 +11,7 @@ WORKDIR /root
 COPY config.yaml .
 COPY train.py .
 COPY evaluate.py .
+COPY flairNer.py .
 
 RUN mkdir -p data/
 RUN mkdir -p resources/taggers/ner-gujarati/
