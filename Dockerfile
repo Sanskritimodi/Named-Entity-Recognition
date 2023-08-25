@@ -13,4 +13,4 @@ COPY train.py .
 COPY evaluate.py .
 
 RUN mkdir -p data/
-RUN mkdir -p models/
+RUN mkdir -p resources/taggers/ner-gujarati/
