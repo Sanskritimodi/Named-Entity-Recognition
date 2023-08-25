@@ -1,7 +1,7 @@
 Name: Gujarati NER with Flair
 Version: 1.0
 Owner: Sanskriti Modi
-DataFormat: IOBS
+DataFormat: IOBES
 RunOn: Docker
 Details:
   Image: False
