@@ -21,15 +21,15 @@ logging.info(PY + "Starting ...")
 
 np = ner_parser()
 np.loadModel(models_path)
-while True:
-    inb = sys.stdin.buffer.read()
-    ins = inb.decode("utf-8")
-    logging.info(PY + "3:Received data: %s len: %d", ins, len(ins))
 
-    new_ins = " ".join(ins.split("\n"))
+inb = sys.stdin.buffer.read()
+ins = inb.decode("utf-8")
+logging.info(PY + "3:Received data: %s len: %d", ins, len(ins))
 
-    tags = np.parseSentence(new_ins)
-    logging.info(PY + "4: After parse..")
-    print(tags)
-    logging.info(PY + "5: Done")
-    break
+new_ins = " ".join(ins.split("\n"))
+
+tags = np.parseSentence(new_ins)
+logging.info(PY + "4: After parse..")
+print(tags)
+logging.info(PY + "5: Done")
+    
