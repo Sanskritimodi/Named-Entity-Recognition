@@ -4,10 +4,10 @@ author: SM
 train:
         cmd: python3 train.py
         type: cmd
-        input: gu_train.iob
+        input: data/gu_train.iob
         output: stdout
 eval:
         cmd: python3 evaluate.py
         type: cmd
-        input: gu_eval.iob
+        input: data/gu_eval.iob
         output: stdout
