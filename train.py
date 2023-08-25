@@ -9,7 +9,7 @@ from transformers import AutoTokenizer, AutoModelForMaskedLM
 columns = {0: 'text', 1: 'ner'}
 
 # Folder containing train, test, and dev files
-data_folder = '/'
+data_folder = 'data/'
 
 # Initialize corpus using column format and dataset files
 corpus: Corpus = ColumnCorpus(data_folder, columns,
