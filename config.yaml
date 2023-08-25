@@ -1,0 +1,13 @@
+title: Spacy Algo config for Acharya
+owner: Sanskriti Modi
+author: SM
+train:
+        cmd: python3 train.py
+        type: cmd
+        input: data/gu_train.iob
+        output: stdout
+eval:
+        cmd: python3 evaluate.py
+        type: cmd
+        input: data/gu_eval.iob
+        output: stdout
