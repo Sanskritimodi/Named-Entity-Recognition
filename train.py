@@ -13,9 +13,7 @@ data_folder = 'data/'
 
 # Initialize corpus using column format and dataset files
 corpus: Corpus = ColumnCorpus(data_folder, columns,
-                              train_file='gu_train.iob',
-                              test_file='gu_eval.iob',
-                              dev_file='gu_train.iob')
+                              train_file='gu_train.iob',)
 
 # Define tag type
 label_type = 'ner'
