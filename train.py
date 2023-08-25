@@ -43,6 +43,11 @@ tagger = SequenceTagger(hidden_size=256,
 # Initialize trainer
 trainer = ModelTrainer(tagger, corpus)
 
+import time
+for i in ['—','\\','|','/']*10:
+     time.sleep(0.2)
+     print(f'\rLoading... {i}', end="\r")
+
 # Start training
 trainer.train('resources/taggers/ner-gujarati',
               train_with_dev=False,
