@@ -23,7 +23,6 @@ np = ner_parser()
 np.loadModel(models_path)
 while True:
     inb = sys.stdin.buffer.read()
-    logging.info(PY + "2:After reading bytes..\n")
     ins = inb.decode("utf-8")
     logging.info(PY + "3:Received data: %s len: %d", ins, len(ins))
 
