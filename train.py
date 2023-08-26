@@ -49,7 +49,7 @@ for i in ['—','\\','|','/']*10:
 # Start training
 trainer.train('resources/taggers/ner-gujarati',
               train_with_dev=False,
-              max_epochs=1)
+              max_epochs=20)
 
 
 
