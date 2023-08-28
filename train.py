@@ -30,8 +30,6 @@ label_dictionary = corpus.make_label_dictionary(label_type=label_type)
 #model = AutoModel.from_pretrained("ai4bharat/indic-bert")
 
 # Load model directly
-from transformers import AutoTokenizer, AutoModelForMaskedLM
-
 tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
 model = AutoModelForMaskedLM.from_pretrained("bert-base-cased")
 
