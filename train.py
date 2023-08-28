@@ -22,9 +22,14 @@ label_type = 'ner'
 label_dictionary = corpus.make_label_dictionary(label_type=label_type)
 
 # Load IndicBERT Gujarati pretrained model
-indicbert_model_name = "l3cube-pune/gujarati-bert"
-tokenizer = AutoTokenizer.from_pretrained(indicbert_model_name)
-model = AutoModelForMaskedLM.from_pretrained(indicbert_model_name)
+#indicbert_model_name = "l3cube-pune/gujarati-bert"
+#tokenizer = AutoTokenizer.from_pretrained(indicbert_model_name)
+#model = AutoModelForMaskedLM.from_pretrained(indicbert_model_name)
+# Load model directly
+from transformers import AutoModel
+model = AutoModel.from_pretrained("ai4bharat/indic-bert")
+
+
 
 # Create transformer-based embedding using IndicBERT model
 from flair.embeddings import TransformerWordEmbeddings
@@ -47,7 +52,7 @@ for i in ['—','\\','|','/']*10:
      print(f'\rLoading... {i}', end="\r")
 
 # Start training
-trainer.train('resources/taggers/ner-gujarati',
+trainer.train('resources/taggers/ner-english',
               train_with_dev=False,
               max_epochs=20)
 
