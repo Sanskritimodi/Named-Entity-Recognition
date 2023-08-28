@@ -12,7 +12,7 @@ Details:
   #DockerHostPort: 2375
   #Runtime: nvidia
   Env: 
-    - lang=gu 
+    - lang=en 
     - gpu_id=0 # The gpu-id, remove this line if training on CPU
     - optimize=accuracy # optimize for accuracy or efficiency
 AlgoFrom: Git #(local/remote)
