@@ -1,0 +1,13 @@
+title: Hugging Face Algo config for Acharya
+owner: Sanskriti Modi
+author: SM
+train:
+        cmd: python3 train.py
+        type: cmd
+        input: data/en_train.iob
+        output: stdout
+eval:
+        cmd: python3 evaluate.py
+        type: cmd
+        input: stdin
+        output: stdout
