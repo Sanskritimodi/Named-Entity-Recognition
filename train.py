@@ -177,6 +177,8 @@ model = AutoModelForTokenClassification.from_pretrained(
     label2id=label2id,
 )
 
+from huggingface_hub import login
+login(token="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", add_to_git_credential=True)
 from transformers import TrainingArguments
 
 args = TrainingArguments(
