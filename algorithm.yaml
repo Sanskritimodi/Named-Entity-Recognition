@@ -1,0 +1,29 @@
+Name: Gujarati NER with Stanza
+Version: 1.0
+Owner: Sanskriti Modi
+DataFormat: BIO
+RunOn: Docker
+Details:
+  Image: False
+  Port: 7707/tcp # 22/TCP 
+  HostIP: 0.0.0.0
+  Debug: True
+  #DockerHost: localhost
+  #DockerHostPort: 2375
+  #Runtime: nvidia
+  Env: 
+    - lang=gu 
+    - gpu_id=0 # The gpu-id, remove this line if training on CPU
+    - optimize=accuracy # optimize for accuracy or efficiency
+AlgoFrom: Git #(local/remote)
+AlgoDetails:
+  Path: https://github.com/Sanskritimodi/Named-Entity-Recognition.git
+  Branch: stanza_ner
+  Auth: None #(http/ssh/None)
+  DockerfilePath: Dockerfile
+  ConfigPath: config.yaml
+  AlgoOutput:
+    - /root/models
+  RestoreOutput: True
+  Logs:
+    - /root/logs/parse_ner.log
