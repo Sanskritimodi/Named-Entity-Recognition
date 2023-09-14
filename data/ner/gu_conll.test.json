@@ -1,0 +1,5154 @@
+[
+ [
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0ab6\u0acd\u0aa8\u0aaa\u0aa4\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0ab0\u0ac1\u0aa3\u0abe\u0a9a\u0ab2",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "I-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa3\u0abf\u0aaa\u0ac1\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0a98\u0abe\u0ab2\u0aaf",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abf\u0a9d\u0acb\u0ab0\u0aae",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0a97\u0abe\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0a97",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abf\u0a95\u0acd\u0a95\u0ac0\u0aae\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a89\u0aae\u0ac7\u0aa6\u0ab5\u0abe\u0ab0\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0ab0\u0a9c\u0abf\u0aaf\u0abe\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0ab6\u0acd\u0aa8\u0aaa\u0aa4\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ac7\u0a95",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0aa8",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ab2\u0aaf\u0a95\u0ac1\u0aae\u0abe\u0ab0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "?",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0aa6\u0acd\u0ab0\u0abe\u0aa3\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a97\u0abe\u0aae\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0a96\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0acd\u0aaf\u0ab5\u0ab8\u0abe\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa4\u0aae\u0a9c\u0ac2\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae\u0a9c",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab6\u0ac1\u0aaa\u0abe\u0ab2\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0acc\u0a9a\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0a82\u0a9a",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0acd\u0aaf\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aac\u0a82\u0a97\u0abe\u0ab3\u0aae\u0abe\u0a82",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0aaa\u0a95\u0acd\u0ab7\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac7\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0a9c\u0abe\u0ab0\u0acb\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaf\u0abe\u0aa4\u0acd\u0ab0\u0ac0\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab0\u0ac7\u0ab2\u0ab5\u0ac7",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a9f\u0ac7\u0ab6\u0aa8",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0aac\u0ab9\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aad\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4\u0abf\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab7\u0abe\u0a93\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a88",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0ab0\u0acd\u0ab8\u0abf\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa1\u0ac7\u0ab5\u0ab2\u0acb\u0aaa",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0abe\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ab0\u0acd\u0a9a\u0acd\u0aaf\u0ac1\u0a85\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ac7\u0aac",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0aa8\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac7\u0ab6\u0aa8\u0ab2",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a8f\u0a9c\u0acd\u0aaf\u0ac1\u0a95\u0ac7\u0ab6\u0aa8\u0ab2",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a9f\u0ac7\u0a95\u0acd\u0aa8\u0acb\u0ab2\u0acb\u0a9c\u0ac0",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aab\u0acb\u0ab0\u0aae",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "(",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0aa8\u0a88\u0a9f\u0ac0\u0a8f\u0aab",
+   "ner": "B-ORG"
+  },
+  {
+   "text": ")",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0aa8\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0\u0abf\u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0ac0\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac1\u0ab6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0aa4\u0acb\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab0\u0ac0\u0aae\u0aa8",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a88\u0ab0\u0abe\u0aa8\u0ac0\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0aa4\u0acd\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0aaa\u0ac0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aae\u0abf\u0ab6\u0acd\u0ab0\u0abe\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aab\u0abe\u0a9f\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac0\u0a95\u0ab3\u0ac7\u0ab2\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0ab0\u0acb\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0aaf\u0ab0\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0a9a\u0acd\u0a9a",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0aa4\u0ab0\u0ac0\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa0\u0a95\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa7\u0acd\u0aaf\u0a95\u0acd\u0ab7\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "23",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "2017\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0acb\u0a9c",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aaa\u0aa4\u0abf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ac9\u0ab0\u0ac7\u0aa8\u0acd\u0ab8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a95\u0ac2\u0ab2",
+   "ner": "I-ORG"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0a9f\u0a95\u0aae\u0a82\u0aa1",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac0\u0ab2\u0a97\u0abf\u0ab0\u0ac0\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "159\u0aae\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0aa5\u0abe\u0aaa\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab5\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0aae\u0abe\u0ab0\u0acb\u0ab9\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0ab5\u0ab8\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0aac\u0acb\u0aa7\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0abe",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa8\u0ac7\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab9\u0ac1\u0ab2",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0aa8\u0ac0",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0aa7\u0abe\u0ab0\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0aae\u0acb\u0ab2\u0abf\u0a95\u0abe\u0aa8\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aae\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0a96\u0acd\u0aaf\u0abe\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0ab0\u0acd\u0ab5\u0ab6\u0ac0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aa7\u0acb\u0ab3\u0a95\u0abf\u0aaf\u0abe\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "'",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0abf\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acb\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac0\u0a9d\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "6",
+   "ner": "O"
+  },
+  {
+   "text": "'",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac0\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0a9f\u0ab2\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acb\u0aa8\u0abf\u0aaf\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aa1\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac0\u0aa7\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac1\u0aa4\u0abf\u0aaf\u0abe\u0aa3\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab6\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0a97\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac7\u0ab2\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acb\u0ab0\u0aac\u0a82\u0aa6\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac1\u0aa4\u0abf\u0aaf\u0abe\u0aa3\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0abe\u0ab2\u0ac1\u0a95\u0abe\u0aa8\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0a97\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0abe\u0ab2\u0ac1\u0a95\u0abe\u0aa8\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0a96\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa5\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abf\u0ab5\u0abf",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "100",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0acd\u0ab0\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acc\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0a95\u0acd\u0aa4\u0abf\u0ab6\u0abe\u0ab3\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ae7\u0ae6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab0\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aae\u0acb\u0aa6\u0ac0\u0aa8\u0acb",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab8\u0aae\u0abe\u0ab5\u0ac7\u0ab6",
+   "ner": "O"
+  },
+  {
+   "text": ":",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0acb\u0ab0\u0acd\u0aac\u0acd\u0ab8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aab\u0acd\u0ab0\u0abe\u0a82\u0ab8",
+   "ner": "B-PER"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ae7\u0ae8",
+   "ner": "O"
+  },
+  {
+   "text": "/",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ae7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0a95\u0ab2\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa1\u0abf\u0a97\u0acd\u0ab0\u0ac0\u0aa7\u0abe\u0ab0\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab2\u0acd\u0ab9\u0ac0\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a95\u0abe\u0aaf\u0aa6\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa7\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abf\u0aae\u0abe\u0aa8\u0acd\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac1\u0aaf\u0acb\u0a9c\u0ac0\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0a95\u0abe\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aae\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa1\u0ac7\u0ab8\u0acd\u0a95\u0a9f\u0acb\u0aaa",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac7\u0a9f\u0ab5\u0ab0\u0acd\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ab0\u0acd\u0ab5\u0ab0\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abf\u0ab9\u0acd\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ac8\u0ab5\u0abf\u0aa7\u0acd\u0aaf\u0aaa\u0ac2\u0ab0\u0acd\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0acb\u0a88\u0a8f",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0ab9\u0ac7\u0ab0\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7\u0acb\u0aa8\u0ac0\u0aa8\u0ac7",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0aab",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0a9a",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0abe\u0ab9\u0ac7\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0abe\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0acd\u0aaf\u0aad\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0aad\u0abe\u0ab3\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0abe\u0aa6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0acd\u0ab0\u0ac0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab0\u0abf\u0a9d\u0ab5\u0ac0\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a95\u0ab9\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0aaf\u0acb\u0a97",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab2\u0a98\u0ac1\u0aae\u0aa4\u0abf\u0a93\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab2\u0acd\u0aaf\u0abe\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0a95\u0abe\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa7\u0abe\u0aa8\u0aae\u0a82\u0aa4\u0acd\u0ab0\u0ac0\u0a8f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aaa\u0aa4\u0abf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0ac7\u0a96",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ab2\u0abf\u0aab\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aac\u0abf\u0aa8",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a9d\u0abe\u0aaf\u0ac7\u0aa6",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a85\u0ab2",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0ab9\u0acd\u0aaf\u0abe\u0aa8\u0aa8\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aaf\u0ac1\u0a8f\u0a87\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aaa\u0aa4\u0abf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ab0\u0ac0\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0ac2\u0a82\u0a9f\u0abe\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0aa6\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aad\u0abf\u0aa8\u0a82\u0aa6\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aa0\u0ab5\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaf\u0acb\u0a9c\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0a97\u0aad\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab6\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0acb\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ac7\u0aaa\u0abe\u0ab0\u0ac0\u0a93\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0acb\u0aa1\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0abf\u0ab2\u0acd\u0aae\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aae\u0ab9\u0ac7\u0aa4\u0abe\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aa1\u0abe\u0aaf\u0ab0\u0ac7\u0a95\u0acd\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab2\u0aae\u0aa8\u0ac1\u0a82",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a95\u0ab9\u0ac7\u0ab5\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ab6\u0acd\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac7\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a95\u0abe\u0ab6\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aa1\u0acd\u0aa1\u0aaf\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0ab5\u0ab0\u0ab9\u0ac7\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0a9c\u0aa8\u0acd\u0ab8\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab2\u0acd\u0ab9\u0ac0",
+   "ner": "I-LOC"
+  },
+  {
+   "text": ":",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0a95\u0ac3\u0ab7\u0acd\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aa8\u0acd\u0aae\u0abe\u0ab7\u0acd\u0a9f\u0aae\u0ac0\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab5\u0ab8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0acd\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac3\u0ab7\u0acd\u0aa3\u0aa8\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a9c\u0aa8\u0acd\u0aae\u0acb\u0aa4\u0acd\u0ab8\u0ab5\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac1\u0aac\u0a9c",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7\u0ac1\u0aae\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa8\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae\u0aa3\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aa3\u0abe\u0ab5\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0aa0\u0acd\u0aa0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0abe\u0ab9\u0ac7\u0ab0\u0abe\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0ab5\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0ab0\u0a95\u0abe\u0ab0\u0aa8\u0abe\u0a82",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aa4\u0aae\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0abe\u0ab9\u0ac7\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0ab9\u0ab8\u0acb\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac0\u0a87\u0a8f\u0aae\u0aae\u0abe\u0a82",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aae\u0ac7\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0ab5\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0aa1\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0ac0\u0aaf",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a86\u0ab0\u0acd\u0aae\u0ac0\u0a8f",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aa1\u0aac\u0abe\u0aa4\u0acb\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ab5\u0abe\u0aac",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0aaa\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0acb\u0a95\u0ac0\u0a93\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abf\u0ab6\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0aa8\u0abe\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0a82\u0a97\u0abe\u0ab3\u0a83",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab9\u0abf\u0a82\u0ab8\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0ab0\u0acb\u0aa7\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "BJP",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa8\u0abe\u0ab5\u0abe\u0a87",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acd\u0ab2\u0ac7\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa1\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0\u0a82\u0aa4\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0acd\u0aaf\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0a9c\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac1\u0aa7\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aab\u0abe\u0ab5\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acd\u0ab0\u0abf\u0ab8",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a97\u0ac7\u0a87\u0ab2",
+   "ner": "B-PER"
+  },
+  {
+   "text": "13",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acb\u0ab2\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0a97\u0acd\u0a97\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0acb\u0a97\u0acd\u0a97\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0a9f\u0a95\u0abe\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "29",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0aa8\u0abe\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a89\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ab2\u0abf\u0ab9\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0aa7\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0aa8\u0abf\u0aa7\u0abf\u0aae\u0a82\u0aa1\u0ab3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0aaf\u0ac1\u0a95\u0acd\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aae\u0abe\u0a82",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0aa4\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab6\u0acd\u0aae\u0ac0\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0aa6\u0acd\u0aa6\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aa0\u0abe\u0ab5\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abf\u0aae\u0abe\u0a9a\u0ab2",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0aa8\u0ac0",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0ab0\u0ac7\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac0\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac0\u0a9c\u0ac7\u0aaa\u0ac0\u0a8f",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a9c\u0ac0\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abe\u0a82\u0ab8\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab6\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "13",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0a88\u0aae\u0acd\u0ab8\u0aa8\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a9c\u0abe\u0ab9\u0ac7\u0ab0\u0abe\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac7\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0aa0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0ab0\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac1\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "10",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ac7\u0aac\u0ab8\u0abe\u0a88\u0a9f\u0acd\u0ab8",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "UK",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a95\u0acb\u0ab0\u0acd\u0a9f\u0aa8\u0ac7",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aaa\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0aae\u0ab2\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0ab9\u0abf\u0aa4\u0ac0\u0a97\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acd\u0ab2\u0abe\u0ab8\u0abf\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acd\u0ab2\u0a9a",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa5\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ac7\u0a9f\u0abf\u0a95\u0acd\u0aaf\u0ac2\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "?",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac3\u0aa4\u0a95\u0acb\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0a9f\u0abe\u0aad\u0abe\u0a97\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0abf\u0ab9\u0abe\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0a82\u0a97\u0abe\u0ab3\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0abe",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a85\u0aa7\u0acd\u0aaf\u0a95\u0acd\u0ab7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a9a\u0abf\u0aa8",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aaf\u0ab2\u0a9f",
+   "ner": "I-PER"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acb\u0ab2\u0ac0\u0ab8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0aae\u0a97\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0ab8\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0ab0\u0abf\u0aaf\u0abe\u0aa6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0acb\u0a82\u0aa7\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0aa7\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aaa\u0abe\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abe\u0aa5",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0aac\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0aa8\u0a8f\u0a9a\u0aaa\u0ac0\u0a8f\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aae\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0a95\u0acd\u0ab7\u0abf\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0abe\u0aad\u0abe\u0ab0\u0acd\u0aa5\u0ac0\u0a93\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ac7\u0ab5\u0abe\u0aa8\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aa6\u0acd\u0aa6\u0ac7\u0ab6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aa5\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aae\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0acb",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "/",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0\u0ab6\u0abe\u0ab8\u0abf\u0aa4",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0acb\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0ab0\u0ac2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abf\u0aae\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "400",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac0\u0a9f\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0abe\u0a88\u0aa8\u0ab2\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acb\u0aa4\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ab0\u0acd\u0a97\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac0\u0a9c\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0a82\u0aac\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abf\u0ab2\u0acd\u0ab5\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0aa1\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acb\u0aa4\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aae\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa7\u0acd\u0aaf\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0aaa\u0abe\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0aa8\u0a82\u0aa6\u0ac0\u0aac\u0ac7\u0aa8",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0a9f\u0ac7\u0ab2\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0acb\u0aa6\u0acd\u0aa6\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0ac1\u0aaa\u0acd\u0aa4\u0aa4\u0aa4\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0aaa\u0aa5",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ac7\u0ab5\u0aa1\u0abe\u0ab5\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0acb\u0ab0\u0acd\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a95\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abf\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "(",
+   "ner": "O"
+  },
+  {
+   "text": "1979",
+   "ner": "O"
+  },
+  {
+   "text": ")",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac0\u0aa8",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0a87\u0ab2\u0acd\u0aa1\u0ab0",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aa5\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ab9\u0a85\u0aad\u0abf\u0aa8\u0ac7\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aa3\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac1\u0ab2\u0acd\u0ab2\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab2\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa8\u0acd\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ac2\u0a82\u0a9f\u0abe\u0ab0\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0ac2\u0aae\u0abf\u0a95\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0a9c\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0a82\u0a9a\u0aae\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0a95\u0ac7\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a9f\u0acb\u0a95\u0acd\u0ab8\u0aa8\u0ac0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0aa1\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0abf\u0ab2\u0acd\u0aae\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aa3\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab5\u0ab2",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab0\u0aa4\u0aa8",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab8\u0abf\u0a82\u0ab9\u0aa8\u0ac1\u0a82",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aa4\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0a9c\u0ab5\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aaa\u0a82\u0a9a\u0ac7",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a9c\u0aa3\u0abe\u0ab5\u0acd\u0aaf\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0ab0\u0ac1\u0aa3\u0abe\u0a9a\u0ab2",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0abf\u0ab9\u0abe\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "5",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0aa4\u0acd\u0aa4\u0ac0\u0ab8\u0a97\u0aa2",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0ab8\u0aae",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "4",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "4",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abf\u0aae\u0abe\u0a9a\u0ab2",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "2",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0a9f\u0a95",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "15",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0ab0\u0ab3",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "5",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa7\u0acd\u0aaf",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0a98\u0abe\u0ab2\u0aaf",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0aa1\u0abf\u0ab6\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ac1\u0aa1\u0ac1\u0a9a\u0ac7\u0ab0\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0a82\u0a9c\u0abe\u0aac",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "4",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "2",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abf\u0a95\u0acd\u0a95\u0abf\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "3",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aae\u0abf\u0ab2\u0aa8\u0abe\u0aa1\u0ac1",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "2",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0ab2\u0a82\u0a97\u0abe\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "11\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "64",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac0\u0a9f\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ac7\u0a9f\u0abe\u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "21",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0a95\u0acd\u0a9f\u0acb\u0aac\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0acd\u0aaf\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa4\u0acb\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0aa3\u0aa4\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "24",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0a95\u0acd\u0a9f\u0acb\u0aac\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0ab6\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0aa4\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aae\u0a82\u0a97\u0ac7\u0ab6\u0a95\u0ab0\u0aa8\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aac\u0acd\u0ab0\u0ac0\u0a9a",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa1\u0ac0",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0aa6\u0abe\u0a96\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0abf\u0ab2\u0acd\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aad\u0abf\u0ab7\u0ac7\u0a95",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a95\u0aaa\u0ac2\u0ab0",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aac\u0aa8\u0abe\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0a82\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0a9a\u0acd\u0a9a",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0abf\u0a95\u0acd\u0ab7\u0abf\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac9\u0aa8\u0acd\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0ac7",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aae\u0abe\u0aa4\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac0\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ab3\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0aae\u0abe\u0aaf\u0aa3\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0a97\u0ab5\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aa4\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0ab0\u0ac1\u0aa3",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a97\u0acb\u0ab5\u0abf\u0ab2\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aad\u0a9c\u0ab5\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0abf\u0ab2\u0acd\u0aae\u0aa8\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abf\u0ab0\u0acd\u0aa6\u0ac7\u0ab6\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aae\u0ab9\u0ac7\u0aa4\u0abe\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abe\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ac9\u0ab2\u0aae\u0abe\u0ab0\u0acd\u0a9f\u0aa8\u0abe",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "21",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a9f\u0acb\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0a9f\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac1\u0ab0\u0acd\u0a98\u0a9f\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ab9\u0ac7\u0a9c\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0ab3\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0aaa\u0acb\u0ab2\u0acb\u0a95",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a88",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ab5\u0abe\u0aac",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": ">",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0acd\u0aaf\u0ac2\u0aaf\u0acb\u0ab0\u0acd\u0a95\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a97\u0acb\u0ab3\u0ac0\u0aac\u0abe\u0ab0\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a98\u0abe\u0aaf\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0aae\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0aae\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0abe\u0ab0\u0ac0\u0ab0\u0abf\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a95\u0acd\u0ab7\u0aae\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0aa8\u0ab8\u0abf\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0aa4\u0ab0\u0acd\u0a95\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf\u0aa4\u0acd\u0ab5",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0a95\u0ab8\u0abe\u0ab5\u0ab5\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0abe\u0aac\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0aa8\u0ac7",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a85\u0aa6\u0aad\u0ac2\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0aae\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0aad\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac7\u0aae\u0ab8\u0a82\u0a97",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0acd\u0aaf\u0ac1\u0a86\u0ab5\u0ac7\u0a87",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a9c\u0ac7\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1\u0acd\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0acd\u0aaf\u0ac2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abf\u0ab5\u0ab0\u0acd\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0aaf\u0ab0\u0ab2\u0ac7\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0ab0\u0acd\u0a9c\u0abf\u0a82\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0ac7\u0a95\u0acd\u0aa8\u0acb\u0ab2\u0acb\u0a9c\u0ac0\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aaf\u0acb\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0acb\u0aa8\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0ab0\u0acd\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0aa4\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0ab0\u0acd\u0a9c\u0abf\u0a82\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ac7\u0aa1\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0ac7\u0ab0\u0ab5\u0abe\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0abe\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0aa8\u0ac2\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abf\u0aaf\u0aae\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0abf\u0aaa\u0ab2\u0ac9\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "/",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acd\u0ab2\u0aac\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0acd\u0aa4\u0abf\u0a95",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a86\u0ab0\u0acd\u0aaf\u0aa8\u0aa8\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab2\u0abf\u0aaa\u0ab2\u0ac9\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0acb\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ab3\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0ab0\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a85\u0ab2\u0ac0",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a96\u0abe\u0aa8",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aa7\u0abe\u0a82\u0aa7\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ab0\u0aae\u0abf\u0aaf\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aa3\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa7\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac0\u0aa4\u0abf\u0aa8",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0a9f\u0ac7\u0ab2\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab6\u0a82\u0a95\u0ab0\u0ab8\u0abf\u0a82\u0ab9",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0a98\u0ac7\u0ab2\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab8\u0ab9\u0abf\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0abe",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0aa7\u0abe\u0aa8\u0ab8\u0aad\u0acd\u0aaf\u0acb\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0a88\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ab8\u0acd\u0aaa\u0ac7\u0aa8\u0acd\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0ab8\u0acd\u0aa4\u0abe\u0ab5",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0a9c\u0ac2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aa5\u0abf\u0aaf\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab6\u0abe\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0acb\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0ac7\u0ab0\u0abe",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa8\u0acd\u0a95",
+   "ner": "I-ORG"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abf\u0aa8\u0acd\u0aa1\u0ac0\u0a95\u0ac7\u0a9f",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa8\u0acd\u0a95",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0a95\u0acd\u0ab7\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0\u0ac0\u0aaf",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a9c\u0ab9\u0abe\u0a9c",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa4\u0aa5\u0abe",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0ab0\u0ab8\u0abe\u0aaf\u0aa3",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a96\u0abe\u0aa4\u0ab0",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aae\u0a82\u0aa4\u0acd\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0acd\u0ab0\u0ac0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aae\u0aa8\u0ab8\u0ac1\u0a96",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a82\u0aa1\u0ab5\u0abf\u0aaf\u0abe\u0a8f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a95\u0ab9\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0ab5\u0abf\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "19",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aa8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a94\u0ab7\u0aa7\u0abf",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0\u0acb",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aae\u0ab9\u0aa4\u0acd\u0aa4\u0acd\u0ab5\u0aaa\u0ac2\u0ab0\u0acd\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0ac2\u0aae\u0abf\u0a95\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0a9c\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0acd\u0aaf\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ab0\u0ab0\u0acb\u0a9c",
+   "ner": "O"
+  },
+  {
+   "text": "6000",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aa8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a94\u0ab7\u0aa7\u0abf",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0\u0acb\u0aa8\u0ac0",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab6\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "10",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0abe\u0a96",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0a9c\u0aac\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abf\u0a82\u0aae\u0aa4\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0ac1\u0aa3\u0ab5\u0aa4\u0acd\u0aa4\u0abe\u0aaf\u0ac1\u0a95\u0acd\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ab5\u0abe\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ab0\u0ac0\u0aa6\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0a88",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0acd\u0aaf\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0a86\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a88",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0aa5\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0abe\u0aa1\u0abf\u0aaf\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aae\u0abe\u0ab2\u0aaa\u0ac1\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aac\u0ac7\u0aa0\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aaa\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0a9c\u0aaa\u0aa8\u0abe",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa7\u0abe\u0ab0\u0abe\u0ab8\u0aad\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0ac2\u0ab7\u0aa3",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aad\u0a9f\u0acd\u0a9f\u0aa8\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a88\u0aae\u0ab0\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa1\u0abe\u0ab5\u0abe\u0ab2\u0abe\u0a8f",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0ab0\u0abe\u0a9c\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0aaa\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0a9b\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac1\u0aaa\u0acd\u0ab0\u0ac0\u0aae",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a95\u0acb\u0ab0\u0acd\u0a9f\u0aae\u0abe\u0a82",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aaa\u0ab9\u0acb\u0a82\u0a9a\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab5\u0abe\u0a88\u0aac\u0acd\u0ab0\u0aa8\u0acd\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0ab0\u0abe\u0aa4\u0acd\u0ab0\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aad\u0abe\u0a9c\u0aaa",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0ab0\u0a95\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0aae\u0abe\u0a82\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ac2",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0ab8\u0acd\u0aa4\u0ac0\u0aa8\u0abe\u0aaa\u0ac1\u0ab0\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0aa4\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0a82\u0aa1\u0ac1\u0ab0\u0abe\u0a9c\u0abe\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa6\u0acd\u0ab0\u0aa8\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0ab2\u0acd\u0aaf\u0aa8\u0ac0",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab8\u0ac7\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aa5\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0aaa\u0ab0\u0acd\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abf\u0aa6\u0acd\u0aa7\u0abe\u0a82\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "8",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a82\u0a95\u0aa1\u0abe\u0a95\u0ac0\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa2\u0abe\u0a82\u0a9a\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aa4\u0aa4\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0acd\u0aaf\u0a95\u0acd\u0ab7\u0aae\u0aa4\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0ab3\u0ab5\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a9f\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0ab5\u0abf\u0aa7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab6\u0acb\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a82\u0a95\u0aa1\u0abe\u0a95\u0ac0\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0ab8\u0acd\u0aa5\u0abe\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0a9a\u0acd\u0a9a\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0a95\u0ab2\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ab0\u0ac2\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abe\u0aa6\u0ac0\u0aa8\u0ac1\u0a82",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a85\u0ab5\u0ab8\u0abe\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab0\u0aac\u0ac0\u0a86\u0a87",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ac2\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "Next\u0ab8\u0ab0\u0a95\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab9\u0acd\u0aaf\u0ac1\u0a82\u0a83",
+   "ner": "O"
+  },
+  {
+   "text": "NIA",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aac\u0abf\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ab9\u0abf\u0aa4\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab9\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0aa8\u0ac7",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "'",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acb\u0ab2\u0ac0\u0ab8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a9f\u0ac7\u0a9f",
+   "ner": "O"
+  },
+  {
+   "text": "'",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0ac7\u0ab0\u0ab5\u0ab5\u0abe\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aaf\u0abe\u0ab8",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0ab6\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0ab2\u0acd\u0aa1\u0abf\u0a82\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0aab",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abf\u0ab2\u0ac0\u0aab",
+   "ner": "O"
+  },
+  {
+   "text": "?",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac1\u0ab0\u0abe\u0a97",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a95\u0ab6\u0acd\u0aaf\u0aaa\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aaf\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a98\u0acb\u0ab7",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0a97\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac7\u0ab2\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aae\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a95\u0acd\u0ab7\u0ac7\u0aaa\u0acb\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0aaf\u0abe\u0ab5\u0abf\u0ab9\u0acb\u0aa3\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0aa3\u0abe\u0ab5\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab5\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "2020",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "21\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0ab8\u0aae\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0ac7\u0a95\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab5\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaf\u0acb\u0a9c\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "(",
+   "ner": "O"
+  },
+  {
+   "text": "PSS",
+   "ner": "O"
+  },
+  {
+   "text": ")",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0a82\u0aa4\u0ab0\u0acd\u0a97\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0acd\u0aa3\u0abe\u0a9f\u0a95",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a82\u0aa7\u0acd\u0ab0\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0ab2\u0a82\u0a97\u0abe\u0aa3\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ab9\u0abe\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0ab0\u0abf\u0aaf\u0abe\u0aa3\u0abe\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa1\u0ac2\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0abe\u0ab8\u0ac7\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0a98\u0ac1\u0aa4\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0ac7\u0a95\u0abe\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab5\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "(",
+   "ner": "O"
+  },
+  {
+   "text": "MSP",
+   "ner": "O"
+  },
+  {
+   "text": ")",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0abe\u0ab3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0ab2\u0ac0\u0aac\u0abf\u0aaf\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ab0\u0ac0\u0aa6\u0ac0\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0aae\u0a97\u0ac0\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0ab2\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ab9\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acc\u0ab0\u0ab5",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a97\u0abe\u0a82\u0a97\u0ac1\u0ab2\u0ac0\u0aa8\u0ac0",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a86\u0a97\u0ac7\u0ab5\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0ac7\u0aa0\u0ab3\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0ac0\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a88\u0aa8\u0acd\u0aa1\u0abf\u0aaf\u0abe\u0a8f",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab0\u0acb\u0aae\u0abe\u0a82\u0a9a\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0a9a\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a87\u0a82\u0a97\u0acd\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0aa8\u0ac7",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab9\u0ab0\u0abe\u0ab5\u0ac0\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0abe\u0a88\u0aa8\u0ab2\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0abf\u0aa4\u0abe\u0aac",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac7\u0ab3\u0ab5\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0ac1\u0aae\u0ab2\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0ab5\u0abe\u0aac\u0aa6\u0abe\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0ab6\u0acd\u0a95\u0ab0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "-",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a8f",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "-",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0aa4\u0ac8\u0aaf\u0aac\u0abe\u0a8f",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0ab5\u0ac0\u0a95\u0abe\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa1\u0abf\u0aae\u0abe\u0aa8\u0acd\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0a9b\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0ac7\u0aa8\u0acd\u0a9c\u0ab0\u0acd\u0ab8\u0aa8\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aaa\u0acd\u0ab0\u0aa5\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0ab6\u0abf\u0aaf\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a82\u0aa4\u0ab0\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aab\u0ac2\u0a9f\u0aac\u0acb\u0ab2\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0aa3\u0acb\u0ab2\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0abe\u0aae\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0a96\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0acd\u0aaf\u0ab5\u0ab8\u0abe\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa4\u0aae\u0a9c\u0ac2\u0ab0\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab6\u0ac1\u0aaa\u0abe\u0ab2\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0a82\u0aa6\u0ac0\u0a97\u0aa2\u0a83",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "256",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ab0\u0acd\u0aa6\u0ac0\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0acb\u0ab5\u0abe\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0ab5\u0abf\u0aa1",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "1\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac1\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0ac7\u0ab2\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0ab8\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a82\u0a95\u0aa1\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "8,856",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0a87",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0acd\u0aaf\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abe\u0ab2\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a95\u0acd\u0ab0\u0abf\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0ab8\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "2884",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0ac7",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a96\u0ac2\u0aac",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0a9c\u0aac\u0ac2\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab6\u0ab0\u0ac2\u0a86\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ab0\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "\u0aaa\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab5\u0ac0\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab9\u0abf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0aa4\u0acd\u0aaf\u0abe\u0aa8\u0acb",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aaa\u0aa4\u0abf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0a9c\u0aaf",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aa6\u0ac1\u0ab0\u0acd\u0a97\u0ac1\u0aa3\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0abf\u0a95\u0ac3\u0aa4\u0abf\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0abe\u0aa3\u0ab8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0a9f\u0ac7\u0ab0\u0abe",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab0\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aae\u0acb\u0aa6\u0ac0",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0abe\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aaa\u0abe\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab5\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aa6\u0abf\u0ab2\u0acd\u0ab9\u0ac0\u0a83",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0ac0\u0aaf",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a93\u0ab2\u0abf\u0aae\u0acd\u0aaa\u0abf\u0a95",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0a98",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "(",
+   "ner": "O"
+  },
+  {
+   "text": "IOA",
+   "ner": "B-ORG"
+  },
+  {
+   "text": ")",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acb\u0aae\u0aa8\u0ab5\u0ac7\u0ab2\u0acd\u0aa5",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0acc\u0aad\u0abe\u0a82\u0aa1\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab0\u0acb\u0aaa\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ac7\u0aa4\u0abe\u0a93",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ac1\u0ab0\u0ac7\u0ab6",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a95\u0ab2\u0aae\u0abe\u0aa1\u0ac0",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aad\u0aaf",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0a9a\u0acc\u0a9f\u0abe\u0ab2\u0abe\u0aa8\u0ac7",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0a86\u0a9c\u0ac0\u0ab5\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa7\u0acd\u0aaf\u0a95\u0acd\u0ab7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0aa8\u0abe\u0ab5\u0ab5\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aae\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0ab0\u0a95\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0aa1\u0a95",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0ab2\u0aa3",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aaa\u0aa8\u0abe\u0ab5\u0acd\u0aaf\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0aa7\u0acd\u0aaf\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac7\u0ab2\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a93\u0aae\u0a95\u0abe\u0ab0\u0ac7\u0ab6\u0acd\u0ab5\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a9c\u0acd\u0aaf\u0acb\u0aa4\u0abf\u0ab0\u0acd\u0ab2\u0ac0\u0a82\u0a97",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa8\u0ab0\u0acd\u0aae\u0aa6\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aa8\u0aa6\u0ac0\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abf\u0aa8\u0abe\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0ac7\u0ab2\u0ac1\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acd\u0ab0\u0abf\u0a9f\u0aa8\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aa4\u0acd\u0ab0\u0ac0\u0a9c\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0acc\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0a9f\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0acb\u0a95\u0abe\u0aa3\u0a95\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a85\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aad\u0abe\u0ab0\u0aa4\u0aae\u0abe\u0a82",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a9c\u0ac020",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0acb\u0a95\u0abe\u0aa3\u0a95\u0abe\u0ab0\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acd\u0ab0\u0abf\u0a9f\u0aa8",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0ab8\u0acc\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0acb\u0a9f\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab0\u0acb\u0a95\u0abe\u0aa3\u0a95\u0abe\u0ab0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa6\u0ac7\u0ab6",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab0\u0a82\u0aa4\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0aa8\u0abe",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a88\u0aaa\u0ac0\u0a8f\u0ab8",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0ab8\u0a82\u0a9c\u0ac0\u0ab5",
+   "ner": "B-PER"
+  },
+  {
+   "text": "\u0aad\u0a9f\u0acd\u0a9f",
+   "ner": "I-PER"
+  },
+  {
+   "text": "\u0ab8\u0ab0\u0a95\u0abe\u0ab0\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0abe\u0aae\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab9\u0acb\u0ab5\u0abe\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0aa3\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c\u0abe\u0aae\u0aa8\u0a97\u0ab0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a95\u0ab8\u0acd\u0a9f\u0acb\u0aa1\u0abf\u0aaf\u0ab2",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0a95\u0ac7\u0ab8\u0aae\u0abe\u0a82",
+   "ner": "I-LOC"
+  },
+  {
+   "text": "\u0a8f\u0aae\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0a9c\u0ac0\u0ab5\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab0\u0abe\u0ab5\u0abe\u0ab8\u0aa8\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab8\u0a9c\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa5\u0a88",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0abe\u0ab6\u0ab0\u0aaa\u0ac1\u0ab0\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a95\u0a82\u0aaa\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0abe\u0aae\u0aa8\u0abe",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0acb\u0a95\u0acb\u0aa8\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aae\u0ac1\u0a96\u0acd\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0acd\u0aaf\u0ab5\u0ab8\u0abe\u0aaf",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa4\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a96\u0ac7\u0aa4\u0aae\u0a9c\u0ac2\u0ab0\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa4\u0ac7\u0aae",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9c",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ab6\u0ac1\u0aaa\u0abe\u0ab2\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a89\u0aaa\u0ab0\u0abe\u0a82\u0aa4",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aac\u0acd\u0ab2\u0ac2",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0aa1\u0abe\u0ab0\u0acd\u0a9f\u0ac7",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a86\u0ab6\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "14",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0aaa\u0acd\u0ab0\u0abf\u0ab2\u0aa5\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "23",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a8f\u0aaa\u0acd\u0ab0\u0abf\u0ab2",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "2020",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab5\u0a9a\u0acd\u0a9a\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a97\u0ac1\u0a86\u0a82\u0a97\u0acd\u0a9d\u0acb\u0aa5\u0ac0",
+   "ner": "B-LOC"
+  },
+  {
+   "text": "\u0a86\u0ab6\u0ab0\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "86",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9f\u0aa8",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aa4\u0aac\u0ac0\u0aac\u0ac0",
+   "ner": "O"
+  },
+  {
+   "text": "\u0aaa\u0ac1\u0ab0\u0ab5\u0aa0\u0abe\u0aa8\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0ab2\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a86\u0ab5\u0acd\u0aaf\u0acb",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9b\u0ac7",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0a82\u0aa6\u0aa8\u0ac0",
+   "ner": "B-ORG"
+  },
+  {
+   "text": "\u0a9a\u0acb\u0a95",
+   "ner": "I-ORG"
+  },
+  {
+   "text": "\u0a9f\u0ac1",
+   "ner": "O"
+  },
+  {
+   "text": "\u0a9a\u0abe\u0a87\u0aa8\u0abe",
+   "ner": "B-LOC"
+  }
+ ]
+]
