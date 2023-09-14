@@ -1,0 +1,13 @@
+title: Stanza Algo config for Acharya
+owner: Sanskriti Modi
+author: SM
+train:
+        cmd: /usr/bin/sh train.sh
+        type: cmd
+        input: data/ner/gu_conll.train.bio
+        output: stdout
+eval:
+        cmd: python3 evaluate.py
+        type: cmd
+        input: data/ner/gu_conll.test.bio
+        output: stdout
