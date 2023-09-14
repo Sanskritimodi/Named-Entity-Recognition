@@ -11,10 +11,11 @@ WORKDIR /root
 COPY setup.sh .
 COPY config.yaml .
 COPY train.sh .
-COPY evaluate.py .
+COPY evaluate.sh .
 
 RUN mkdir -p data/
 RUN mkdir -p models/
 
 RUN chmod +x setup.sh
 RUN chmod +x train.sh
+RUN chmod +x evaluate.sh
