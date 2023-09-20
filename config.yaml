@@ -7,7 +7,7 @@ train:
         input: data/ner/gu_conll.train.bio
         output: stdout
 eval:
-        cmd: /usr/bin/sh evaluate.sh
+        cmd: python3 evaluate.py
         type: cmd
         input: data/ner/gu_conll.test.bio
         output: stdout
