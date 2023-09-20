@@ -11,7 +11,7 @@ WORKDIR /root
 COPY setup.sh .
 COPY config.yaml .
 COPY train.sh .
-COPY evaluate.sh .
+COPY evaluate.py .
 
 RUN mkdir -p data/
 RUN mkdir -p models/
