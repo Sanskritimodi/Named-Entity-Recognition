@@ -18,4 +18,3 @@ RUN mkdir -p models/
 
 RUN chmod +x setup.sh
 RUN chmod +x train.sh
-RUN chmod +x evaluate.sh
