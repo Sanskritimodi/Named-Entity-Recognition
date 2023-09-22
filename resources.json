@@ -1,0 +1,16 @@
+{
+    "gu": {
+        "lang_name": "Gujarati",
+        "ner": {
+            "model": {
+                "md5": "9ea6779b6c8cf844c3bd213338870acf",
+                "dependencies": [
+                    {
+                        "model": "pretrain",
+                        "package": "fasttext"
+                    }
+                ]
+            }
+        }
+    }
+}
