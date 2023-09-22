@@ -10,7 +10,6 @@ RUN pip3 install -r /requirements.txt
 WORKDIR /root
 COPY setup.sh .
 COPY data/ /root/data/
-COPY stanza/ /root/stanza/
 COPY config.yaml .
 COPY train.sh .
 COPY evaluate.py .
