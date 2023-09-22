@@ -23,5 +23,6 @@ RUN mkdir -p data/
 RUN mkdir -p models/
 
 RUN chmod +x setup.sh
-RUN bio_to_json.py 
+RUN python3 bio_to_json.py
+
 RUN chmod +x train.sh
