@@ -11,8 +11,12 @@ WORKDIR /root
 COPY setup.sh .
 COPY data/ /root/data/
 
-RUN wget -c https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.gu.300.vec.gz -O /root/ft/cc.gu.300.vec.gz
-RUN gunzip root/ft/cc.gu.300.vec.gz 
+#RUN wget -c https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.gu.300.vec.gz -O /root/ft/cc.gu.300.vec.gz
+#RUN gunzip root/ft/cc.gu.300.vec.gz 
+
+RUN mkdir -p ft/
+RUN wget -c https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.gu.300.vec.gz -O ft/cc.gu.300.vec.gz
+RUN gunzip ft/cc.gu.300.vec.gz 
 
 COPY config.yaml .
 COPY bio_to_json.py .
@@ -23,6 +27,6 @@ RUN mkdir -p data/
 RUN mkdir -p models/
 
 RUN chmod +x setup.sh
-RUN python3 bio_to_json.py
-
+#RUN python3 bio_to_json.py
+RUN python3 -m stanza.models.common.convert_pretrain ~/stanza_resources/gu/pretrain/fasttext.pt ~/ft/cc.gu.300.vec 150000 
 RUN chmod +x train.sh
