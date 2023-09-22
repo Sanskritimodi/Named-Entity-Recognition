@@ -15,6 +15,7 @@ RUN wget -c https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.gu.300.vec.
 RUN gunzip root/ft/cc.gu.300.vec.gz 
 
 COPY config.yaml .
+COPY bio_to_json.py .
 COPY train.sh .
 COPY evaluate.py .
 
@@ -22,4 +23,5 @@ RUN mkdir -p data/
 RUN mkdir -p models/
 
 RUN chmod +x setup.sh
+RUN bio_to_json.py 
 RUN chmod +x train.sh
