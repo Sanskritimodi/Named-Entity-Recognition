@@ -9,7 +9,7 @@ config = {
         # You only need model paths if you have a specific model outside of stanza_resources
 	#'tokenize_model_path': './fr_gsd_models/fr_gsd_tokenizer.pt',
 	#'mwt_model_path': './fr_gsd_models/fr_gsd_mwt_expander.pt',
-	'ner_model_path': '/Users/sanskriti/Documents/NAMED ENTITY RECOGNITION/STANZA_NER/gu/ner/gu_conll_nertagger.pt',
+	'ner_model_path': '/saved_models/ner/gu_conll_nertagger.pt',
         # Use pretokenized text as input and disable tokenization
 	'tokenize_pretokenized': True,
     'download_method': None 
