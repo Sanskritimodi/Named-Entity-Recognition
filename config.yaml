@@ -9,5 +9,5 @@ train:
 eval:
         cmd: python3 evaluate.py
         type: cmd
-        input: data/ner/gu_conll.test.bio
+        input: data/gu_eval.iob
         output: stdout
