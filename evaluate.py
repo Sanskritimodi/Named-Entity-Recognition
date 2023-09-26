@@ -1,32 +1,5 @@
 import stanza
 
-ModelLabelsToCONLL = {
-    'CARDINAL':'O', 
-    'DATE':'O', 
-    'EVENT':'MISC', 
-    'FAC':'MISC',
-    'GPE':'LOC',
-    'LANGUAGE':'MISC',
-    'LAW':'MISC',
-    'LOC':'LOC',
-    'MONEY':'O',
-    'NORP':'MISC',
-    'ORDINAL':'O',
-    'ORG':'ORG',
-    'PERCENT':'O',
-    'PERSON':'PER',
-    'PRODUCT':'MISC',
-    'QUANTITY':'O',
-    'TIME':'O',
-    'WORK_OF_ART': 'O'
-}
-
-def convert2AcharyaLabel(conllLabel):
-    if IsAcharyaLabelLoaded:
-        if conllLabel in AcharyaLabels['EntityMap']:
-            return AcharyaLabels['EntityMap'][conllLabel]['key']
-    return conllLabel
-
 config = {
         # Comma-separated list of processors to use
 	'processors': 'tokenize,ner',
@@ -79,7 +52,8 @@ doc = nlp(evalRecord)
 
 for sentence in doc.sentences: #code for evaluation output in stanza ner
     for ent in sentence.ents: 
-        print(f"{ent.text} \t {ent.type}")
+        #print(f"{ent.text}\t{ent.type}")
+	print("\t".join([ent.text, ent.type]))
 	    
 '''output = []
 for tok in doc:
