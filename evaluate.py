@@ -36,36 +36,7 @@ evalRecord = " ".join(map(getWord, text.split("\n")))
 # Process the text from the file using the Stanza pipeline
 doc = nlp(evalRecord)
 
-'''output = []
-    for tok in doc:
-        label = tok.ent_iob_
-        if label != "O":
-            ent = "O"
-            if tok.ent_type_ in ModelLabelsToCONLL:
-                ent = convert2AcharyaLabel(ModelLabelsToCONLL[tok.ent_type_])
-            if ent != "O":
-                label += '-' + ent 
-            else:
-                label = "O"
-        output.append("\t".join([str(tok), label]))'''
-
-
 for sentence in doc.sentences: #code for evaluation output in stanza ner
     for ent in sentence.ents: 
         #print(f"{ent.text}\t{ent.type}")
 	print("\t".join([ent.text, ent.type]))
-	    
-'''output = []
-for tok in doc:
-	label = tok.text
-	if label!="0":
-		ent="0"
-		if tok.type in ModelLabelsToCONLL:
-                	ent = convert2AcharyaLabel(ModelLabelsToCONLL[tok.type])
-            	if ent != "O":
-                	label += '-' + ent 
-            	else:
-                	label = "O"
-        output.append("\t".join([str(tok), label]))
-
-print(output)'''
