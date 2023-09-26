@@ -4,7 +4,7 @@ config = {
         # Comma-separated list of processors to use
 	'processors': 'tokenize,ner',
         # Language code for the language to build the Pipeline in
-        'lang': 'gu',
+	'lang': 'gu',
         # Processor-specific arguments are set with keys "{processor_name}_{argument_name}"
         # You only need model paths if you have a specific model outside of stanza_resources
 	#'tokenize_model_path': './fr_gsd_models/fr_gsd_tokenizer.pt',
@@ -26,9 +26,9 @@ with open(input_file_path, 'r', encoding='utf-8') as file:
 
 def getWord(line):
 	lineData = line.split()
-        if len(lineData) > 0:
+	if len(lineData) > 0:
 		return lineData[0]
-        return line
+	return line
 
 #evalRecord = " ".join(map(getWord, evalData.split("\n")))
 evalRecord = " ".join(map(getWord, text.split("\n")))
