@@ -77,11 +77,11 @@ doc = nlp(evalRecord)
         output.append("\t".join([str(tok), label]))'''
 
 
-#for sentence in doc.sentences: #code for evaluation output in stanza ner
-    #for ent in sentence.ents: 
-        #print(f"Entity: {ent.text}, Tag: {ent.type}")
+for sentence in doc.sentences: #code for evaluation output in stanza ner
+    for ent in sentence.ents: 
+        print(f"{ent.text} \t {ent.type}")
 	    
-output = []
+'''output = []
 for tok in doc:
 	label = tok.text
 	if label!="0":
@@ -94,4 +94,4 @@ for tok in doc:
                 	label = "O"
         output.append("\t".join([str(tok), label]))
 
-print(output)
+print(output)'''
