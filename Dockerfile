@@ -10,7 +10,7 @@ RUN pip3 install -r /requirements.txt
 WORKDIR /root
 COPY setup.sh .
 COPY data/ /root/data/
-
+COPY stanza_resources/gu/resources.json stanza_resources/resources.json
 #RUN wget -c https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.gu.300.vec.gz -O /root/ft/cc.gu.300.vec.gz
 #RUN gunzip root/ft/cc.gu.300.vec.gz 
 
