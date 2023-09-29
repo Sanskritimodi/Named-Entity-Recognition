@@ -22,14 +22,15 @@ input_file_path = 'data/gu_eval.iob'
 with open(input_file_path, 'r', encoding='utf-8') as file:
 	text = file.read()
 
-def getWord(line):
+'''def getWord(line):
 	lineData = line.split()
 	if len(lineData) > 0:
 		return lineData[0]
-	return line
+	return line'''
 
 #evalRecord = " ".join(map(getWord, evalData.split("\n")))
-evalRecord = " ".join(map(getWord, text.split("\n")))
+#evalRecord = " ".join(map(getWord, text.split("\n")))
+evalRecord = "\n".join(text.split()) 
 
 # Process the text from the file using the Stanza pipeline
 doc = nlp(evalRecord)
