@@ -1,3 +1,3 @@
 # Named-Entity-Recognition
 
-**A gujarati named entity recognition model using stanza**
+**A Gujarati Named Entity Recognition model using Stanza**
