@@ -1,2 +1,2 @@
 # Named-Entity-Recognition
-A gujarati named entity recognition model using spacy
+A Gujarati Named Entity Recognition model using Spacy
